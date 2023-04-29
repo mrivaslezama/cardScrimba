@@ -1,5 +1,4 @@
-# co5194bf68066f36982310a53
-
+# cardScrimba
 Quick start:
 
 ```
